@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	mysys("a.jpeg");
+	mysys("resource\\a.jpeg");
 
 	printf("gogogo ok ???\n");
 	printf("gogogo ok ???\n");	

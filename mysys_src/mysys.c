@@ -8,7 +8,7 @@
 int mysys(char *jpgpath)
 {
 	char cWindowsDirectory[MAX_PATH];  
-	char cmd[1000]="\\test.exe ";
+	char cmd[1000]="\\bin\\call.exe ";
 	/*get the executable file path*/
 
 	strcat(cmd,jpgpath);
