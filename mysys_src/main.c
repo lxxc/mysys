@@ -6,18 +6,6 @@ int main(void)
 
 	printf("gogogo ok ???\n");
 	printf("gogogo ok ???\n");	
-	printf("gogogo ok ???\n");
-	printf("gogogo ok ???\n");
-	printf("gogogo ok ???\n");	
-	printf("gogogo ok ???\n");	
-	printf("gogogo ok ???\n");	
-	printf("gogogo ok ???\n");	
-	printf("gogogo ok ???\n");	
-	printf("gogogo ok ???\n");	
-	printf("gogogo ok ???\n");	
-	printf("gogogo ok ???\n");	
-	printf("gogogo ok ???\n");	
-	printf("gogogo ok ???\n");	
 
 	return 0;
 }
