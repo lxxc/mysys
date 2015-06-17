@@ -11,6 +11,8 @@ int mysys(char *jpgpath)
 	char cmd[1000]="\\bin\\call.exe ";
 	/*get the executable file path*/
 
+
+
 	strcat(cmd,jpgpath);
 	/*add the jpeg file path to the cmd*/
 
